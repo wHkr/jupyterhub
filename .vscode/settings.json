@@ -1,0 +1,15 @@
+{
+    "editor.formatOnSave": true,
+    "editor.fontSize": 13,
+    "editor.defaultFormatter": "ms-toolsai.jupyter",
+    "editor.fontFamily": "'JetBrains Nerd Font Mono', Consolas, 'Courier New', monospace",
+    "editor.wordWrap": "wordWrapColumn",
+    "workbench.colorTheme": "Cold Python Theme",
+    "editor.formatOnPaste": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ]
+}
